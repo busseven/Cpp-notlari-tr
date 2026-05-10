@@ -1,4 +1,4 @@
-42 müfredatındaki C++ modülleri için aldığım (Türkçe dilinde) notlar. C bilen ve C++ öğrenmek isteyenlere uygun. Pdf-konu dağılımı:
+42 müfredatındaki C++ modülleri için aldığım (Türkçe dilinde) notlar. C bilen ve C++ öğrenmek isteyenlere uygun (98 standartı). Pdf-konu dağılımı:
 
 |0|1|2|3|4|5|6|
 -|-|-|-|-|-|-|
